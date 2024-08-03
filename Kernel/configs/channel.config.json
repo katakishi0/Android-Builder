@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Motog7play",
       "repo": "https://github.com/katakishi0/kernel_motorola_sdm632",
-      "branch": "11.0",
+      "branch": "14.0",
       "device": "channel",
       "defconfig": "channel_defconfig"
     },
